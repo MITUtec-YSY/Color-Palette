@@ -1,0 +1,13 @@
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\bin\Debug\ColorPaletteExample.exe.config
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\bin\Debug\ColorPaletteExample.exe
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\bin\Debug\ColorPaletteExample.pdb
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\bin\Debug\调色板.dll
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\bin\Debug\调色板.pdb
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.csprojAssemblyReference.cache
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.调色板示例程序.resources
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.Properties.Resources.resources
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.csproj.GenerateResource.cache
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.csproj.CoreCompileInputs.cache
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.csproj.CopyComplete
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.exe
+C:\Users\ysydt\Github\ColorPalette\Example\ColorPaletteExample\ColorPaletteExample\obj\Debug\ColorPaletteExample.pdb

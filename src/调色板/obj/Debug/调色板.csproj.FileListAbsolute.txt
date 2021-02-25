@@ -1,0 +1,16 @@
+C:\Users\ysydt\source\repos\调色板\调色板\bin\Debug\调色板.dll
+C:\Users\ysydt\source\repos\调色板\调色板\bin\Debug\调色板.pdb
+C:\Users\ysydt\source\repos\调色板\调色板\obj\Debug\调色板.csprojAssemblyReference.cache
+C:\Users\ysydt\source\repos\调色板\调色板\obj\Debug\调色板.调色板.resources
+C:\Users\ysydt\source\repos\调色板\调色板\obj\Debug\调色板.csproj.GenerateResource.cache
+C:\Users\ysydt\source\repos\调色板\调色板\obj\Debug\调色板.csproj.CoreCompileInputs.cache
+C:\Users\ysydt\source\repos\调色板\调色板\obj\Debug\调色板.dll
+C:\Users\ysydt\source\repos\调色板\调色板\obj\Debug\调色板.pdb
+C:\Users\ysydt\Github\ColorPalette\调色板\bin\Debug\调色板.dll
+C:\Users\ysydt\Github\ColorPalette\调色板\bin\Debug\调色板.pdb
+C:\Users\ysydt\Github\ColorPalette\调色板\obj\Debug\调色板.csprojAssemblyReference.cache
+C:\Users\ysydt\Github\ColorPalette\调色板\obj\Debug\调色板.调色板.resources
+C:\Users\ysydt\Github\ColorPalette\调色板\obj\Debug\调色板.csproj.GenerateResource.cache
+C:\Users\ysydt\Github\ColorPalette\调色板\obj\Debug\调色板.csproj.CoreCompileInputs.cache
+C:\Users\ysydt\Github\ColorPalette\调色板\obj\Debug\调色板.dll
+C:\Users\ysydt\Github\ColorPalette\调色板\obj\Debug\调色板.pdb
